@@ -13,7 +13,7 @@ keywords:
   - admissions controller
 home: https://kyverno.io/policies/
 sources:
-  - https://github.com/kyverno/policies
+  - https://github.com/dmitryroshchin/policies
 maintainers:
   - name: Nirmata
     url: https://kyverno.io/
